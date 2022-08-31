@@ -7,5 +7,4 @@
 - A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose (NeurIPS 2021) [[Project]](https://lemonatsu.github.io/anerf/) [[Code]](https://github.com/LemonATsu/A-NeRF) [[Paper]](https://arxiv.org/abs/2102.06199)
 - Neural Articulated Radiance Field (ICCV 2021) [[Project]](https://github.com/nogu-atsu/NARF) [[Code]](https://github.com/nogu-atsu/NARF) [[Paper]](https://arxiv.org/abs/2104.03110)
 - HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video (CVPR 2022) [[Project]](https://grail.cs.washington.edu/projects/humannerf/) [[Code]](https://github.com/chungyiweng/humannerf) [[Paper]](https://arxiv.org/abs/2201.04127)
-- HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs
-(CVPR 2022) [[Project]](https://zhaofuq.github.io/humannerf/) [[Code]](https://github.com/zhaofuq/HumanNeRF) [[Paper]](https://github.com/zhaofuq/HumanNeRF)
+- HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs (CVPR 2022) [[Project]](https://zhaofuq.github.io/humannerf/) [[Code]](https://github.com/zhaofuq/HumanNeRF) [[Paper]](https://github.com/zhaofuq/HumanNeRF)
